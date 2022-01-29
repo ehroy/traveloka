@@ -7,6 +7,6 @@ npm install cheerio
 npm install delay
 npm install readline-sync
 npm install fs-extra
-npm install chalk
+npm install chalk@4.1.2
 npm install figlet
 node traveloka

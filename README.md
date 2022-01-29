@@ -1,5 +1,5 @@
 # traveloka
-# create akun sebelom jam 7 malam nanti biarin/panatau sampai jam 00:00 nanti otomatis lanjut payment only bca 
+# create akun sebelom jam 7 malam nanti biarin/pantau sampai jam 00:00 nanti otomatis lanjut payment only bca sebelom dibayar pastikan cek total pembayaran jika 30k maka kupon berhasil motong jika tidak kupon tidak berhasil motong
 
 npm init
 npm install node-fetch@2.6.1
